@@ -3,4 +3,4 @@ data/game_details/*.json
 data/pbp/*.json
 
 # Don't ignore the example
-data/pbp/data_*_example.json
+!data/pbp/data_*_example.json
