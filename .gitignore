@@ -1,3 +1,7 @@
+# dotfiles
+.python-version
+
+# data things thatt aren't necessary
 data/schedule/*.json
 data/game_details/*.json
 data/pbp/*.json
